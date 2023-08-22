@@ -1,0 +1,15 @@
+C:\Users\kzeyn\source\repos\oneYear\oneYear\bin\Debug\net6.0\oneYear.exe
+C:\Users\kzeyn\source\repos\oneYear\oneYear\bin\Debug\net6.0\oneYear.deps.json
+C:\Users\kzeyn\source\repos\oneYear\oneYear\bin\Debug\net6.0\oneYear.runtimeconfig.json
+C:\Users\kzeyn\source\repos\oneYear\oneYear\bin\Debug\net6.0\oneYear.dll
+C:\Users\kzeyn\source\repos\oneYear\oneYear\bin\Debug\net6.0\oneYear.pdb
+C:\Users\kzeyn\source\repos\oneYear\oneYear\obj\Debug\net6.0\oneYear.csproj.AssemblyReference.cache
+C:\Users\kzeyn\source\repos\oneYear\oneYear\obj\Debug\net6.0\oneYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\oneYear\oneYear\obj\Debug\net6.0\oneYear.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\oneYear\oneYear\obj\Debug\net6.0\oneYear.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\oneYear\oneYear\obj\Debug\net6.0\oneYear.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\oneYear\oneYear\obj\Debug\net6.0\oneYear.dll
+C:\Users\kzeyn\source\repos\oneYear\oneYear\obj\Debug\net6.0\refint\oneYear.dll
+C:\Users\kzeyn\source\repos\oneYear\oneYear\obj\Debug\net6.0\oneYear.pdb
+C:\Users\kzeyn\source\repos\oneYear\oneYear\obj\Debug\net6.0\oneYear.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\oneYear\oneYear\obj\Debug\net6.0\ref\oneYear.dll
